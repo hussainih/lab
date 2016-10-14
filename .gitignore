@@ -1,0 +1,10 @@
+Install the plugin ".ignore" and add all IntelliJ-IDEA project files *iml, *ipr and *iws to the
+.gitignore. Also add the folders .gradle, .idea, build and gradle. List the contents of your .gitignore file.
+
+*iml
+*ipr
+*iws
+.gradle/
+.idea/
+build/
+gradle/
